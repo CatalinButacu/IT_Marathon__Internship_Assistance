@@ -1,0 +1,457 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "user_id": 1,
+            "title": "Ma poate ajuta cineva cu git-ul putin?",
+            "created_at": "2022/04/16"
+        },
+        {
+            "id": 2,
+            "user_id": 9,
+            "title": "Stie cineva niste cursuri bune pentru C#?",
+            "created_at": "2022/04/16"
+        },
+        {
+            "id": 3,
+            "user_id": 1,
+            "title": "Whether you’re going through a break up,you’ve just lost your job,or you simply woke up feeling a little insecure this morning—we’ve all had these days.",
+            "created_at": "2022/04/16"
+        },
+        {
+            "id": 4,
+            "user_id": 2,
+            "title": "The waves were crashing on the shore; it was a lovely sight.",
+            "created_at": "2022/04/17"
+        },
+        {
+            "id": 5,
+            "user_id": 1,
+            "title": "I really want to go to work,but I am too sick to drive.",
+            "created_at": "2022/04/17"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "email": "admin@gitgud.org",
+            "password": "password",
+            "created_at": "2022/04/16",
+            "photo": ""
+        },
+        {
+            "id": 2,
+            "username": "carmen",
+            "email": "carmen@gitgud.org",
+            "password": "password",
+            "created_at": "2022/04/16",
+            "photo": ""
+        },
+        {
+            "id": 3,
+            "username": "andrei",
+            "email": "andrei@gitgud.org",
+            "password": "password",
+            "created_at": "2022/04/16",
+            "photo": ""
+        },
+        {
+            "id": 4,
+            "username": "bianca",
+            "email": "bianca@gitgud.org",
+            "password": "password",
+            "created_at": "2022/04/16",
+            "photo": ""
+        },
+        {
+            "id": 5,
+            "username": "lavinia",
+            "email": "lavinia@gitgud.org",
+            "password": "password",
+            "created_at": "2022/04/16",
+            "photo": ""
+        },
+        {
+            "id": 6,
+            "username": "alberto",
+            "email": "alberto@gitgud.org",
+            "password": "password",
+            "created_at": "2022/04/16",
+            "photo": ""
+        },
+        {
+            "id": 7,
+            "username": "alex",
+            "email": "alex@gitgud.org",
+            "password": "password",
+            "created_at": "2022/04/16",
+            "photo": ""
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "post_id": 1,
+            "user_id": 2,
+            "message": "Rain on Your Parade"
+        },
+        {
+            "id": 2,
+            "post_id": 1,
+            "user_id": 3,
+            "message": "No Ifs,Ands,or Buts"
+        },
+        {
+            "id": 3,
+            "post_id": 2,
+            "user_id": 3,
+            "message": "It was then the joyous cigarette met the considerate honey."
+        },
+        {
+            "id": 4,
+            "post_id": 3,
+            "user_id": 1,
+            "message": "Is the decay bus better than the drive?"
+        },
+        {
+            "id": 5,
+            "post_id": 4,
+            "user_id": 1,
+            "message": "Is the scrape finish better than the bird?"
+        },
+        {
+            "id": 6,
+            "post_id": 4,
+            "user_id": 7,
+            "message": "The impassioned tune weighs into the vibrant home."
+        },
+        {
+            "id": 7,
+            "post_id": 9,
+            "user_id": 7,
+            "message": "The acceptable camera can't suck the plenty."
+        },
+        {
+            "id": 8,
+            "post_id": 5,
+            "user_id": 3,
+            "message": "Did the garrulous original really multiply the assignment?"
+        },
+        {
+            "id": 9,
+            "post_id": 11,
+            "user_id": 3,
+            "message": "The floppy area straps into the emotional career."
+        },
+        {
+            "id": 10,
+            "post_id": 7,
+            "user_id": 6,
+            "message": "Did the nonsensical drama really hug the lake?"
+        },
+        {
+            "id": 11,
+            "post_id": 7,
+            "user_id": 6,
+            "message": "The edible blue compares into the severe bonus."
+        },
+        {
+            "id": 12,
+            "post_id": 8,
+            "user_id": 6,
+            "message": "It was then the flashy feel met the hefty life."
+        },
+        {
+            "id": 13,
+            "post_id": 11,
+            "user_id": 8,
+            "message": "The jumpy glass can't reach the detail."
+        },
+        {
+            "id": 14,
+            "post_id": 4,
+            "user_id": 6,
+            "message": "The edible blue compares into the severe bonus."
+        },
+        {
+            "id": 15,
+            "post_id": 6,
+            "user_id": 7,
+            "message": "The official disk can't mug the active."
+        },
+        {
+            "id": 16,
+            "post_id": 15,
+            "user_id": 6,
+            "message": "The proper ride avoids into the ambitious concept."
+        },
+        {
+            "id": 17,
+            "post_id": 15,
+            "user_id": 3,
+            "message": "What if the disgusted carpet ate the maintenance?"
+        },
+        {
+            "id": 18,
+            "post_id": 16,
+            "user_id": 7,
+            "message": "Did the advanced two really occur the past?"
+        },
+        {
+            "id": 19,
+            "post_id": 16,
+            "user_id": 7,
+            "message": "Is the start window better than the foot?"
+        },
+        {
+            "id": 20,
+            "post_id": 16,
+            "user_id": 2,
+            "message": "It was then the warlike chemical met the utter switch."
+        },
+        {
+            "id": 21,
+            "post_id": 1,
+            "user_id": 9,
+            "message": "It was then the oceanic passion met the utilized significance."
+        },
+        {
+            "id": 22,
+            "post_id": 3,
+            "user_id": 9,
+            "message": "The failing impress picks into the juvenile contribution."
+        },
+        {
+            "id": 23,
+            "post_id": 6,
+            "user_id": 9,
+            "message": "The obnoxious great can't suspect the preparation."
+        },
+        {
+            "id": 24,
+            "post_id": 2,
+            "user_id": 1,
+            "message": "Did the lyrical trust really chop the discussion?"
+        }
+    ],
+    "likes": [
+        {
+            "id": 1,
+            "post_id": 1,
+            "user_id": 2
+        },
+        {
+            "id": 2,
+            "post_id": 18,
+            "user_id": 3
+        },
+        {
+            "id": 3,
+            "post_id": 1,
+            "user_id": 4
+        },
+        {
+            "id": 4,
+            "post_id": 7,
+            "user_id": 4
+        },
+        {
+            "id": 5,
+            "post_id": 6,
+            "user_id": 3
+        },
+        {
+            "id": 6,
+            "post_id": 3,
+            "user_id": 4
+        },
+        {
+            "id": 7,
+            "post_id": 4,
+            "user_id": 7
+        },
+        {
+            "id": 8,
+            "post_id": 5,
+            "user_id": 1
+        },
+        {
+            "id": 9,
+            "post_id": 5,
+            "user_id": 5
+        },
+        {
+            "id": 10,
+            "post_id": 5,
+            "user_id": 6
+        },
+        {
+            "id": 11,
+            "post_id": 9,
+            "user_id": 3
+        },
+        {
+            "id": 12,
+            "post_id": 9,
+            "user_id": 2
+        },
+        {
+            "id": 13,
+            "post_id": 10,
+            "user_id": 2
+        },
+        {
+            "id": 14,
+            "post_id": 11,
+            "user_id": 3
+        },
+        {
+            "id": 15,
+            "post_id": 11,
+            "user_id": 2
+        },
+        {
+            "id": 16,
+            "post_id": 11,
+            "user_id": 7
+        },
+        {
+            "id": 17,
+            "post_id": 11,
+            "user_id": 3
+        },
+        {
+            "id": 18,
+            "post_id": 14,
+            "user_id": 2
+        },
+        {
+            "id": 19,
+            "post_id": 15,
+            "user_id": 1
+        },
+        {
+            "id": 20,
+            "post_id": 17,
+            "user_id": 3
+        },
+        {
+            "id": 21,
+            "post_id": 17,
+            "user_id": 5
+        },
+        {
+            "id": 22,
+            "post_id": 17,
+            "user_id": 4
+        },
+        {
+            "id": 23,
+            "post_id": 1,
+            "user_id": 9
+        },
+        {
+            "id": 24,
+            "post_id": 18,
+            "user_id": 9
+        },
+        {
+            "id": 25,
+            "post_id": 6,
+            "user_id": 9
+        },
+        {
+            "id": 26,
+            "post_id": 2,
+            "user_id": 1
+        },
+        {
+            "id": 27,
+            "post_id": 2,
+            "user_id": 7
+        }
+    ],
+    "follows": [
+        {
+            "follower": 1,
+            "following": 3
+        },
+        {
+            "follower": 1,
+            "following": 4
+        },
+        {
+            "follower": 1,
+            "following": 9
+        },
+        {
+            "follower": 2,
+            "following": 1
+        },
+        {
+            "follower": 3,
+            "following": 2
+        },
+        {
+            "follower": 3,
+            "following": 4
+        },
+        {
+            "follower": 3,
+            "following": 9
+        },
+        {
+            "follower": 4,
+            "following": 2
+        },
+        {
+            "follower": 5,
+            "following": 2
+        },
+        {
+            "follower": 5,
+            "following": 3
+        },
+        {
+            "follower": 5,
+            "following": 9
+        },
+        {
+            "follower": 6,
+            "following": 1
+        },
+        {
+            "follower": 6,
+            "following": 2
+        },
+        {
+            "follower": 7,
+            "following": 2
+        },
+        {
+            "follower": 7,
+            "following": 1
+        },
+        {
+            "follower": 7,
+            "following": 9
+        },
+        {
+            "follower": 8,
+            "following": 1
+        },
+        {
+            "follower": 9,
+            "following": 1
+        },
+        {
+            "follower": 9,
+            "following": 2
+        },
+        {
+            "follower": 9,
+            "following": 3
+        }
+    ]
+}
